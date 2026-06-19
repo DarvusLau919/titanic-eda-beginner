@@ -1,1 +1,1 @@
-# titanic-eda-beginner
+# Titanic Dataset Exploratory Data Analysis
